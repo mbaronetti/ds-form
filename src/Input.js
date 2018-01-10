@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-class Passenger extends React.Component {
+class Input extends React.Component {
    constructor(props){
        super(props);
        this.state = {
@@ -19,4 +19,4 @@ class Passenger extends React.Component {
     }
 }
 
-export default Passenger; 
+export default Input; 
